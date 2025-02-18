@@ -1,0 +1,15 @@
+celery==5.4.0
+Django==5.1.1
+django-celery-beat==2.7.0
+django-choices==2.0.0
+django-filter==24.3
+django-fsm==3.0.0
+django-fsm-admin==1.2.5
+django-fsm-log==3.1.0
+djangorestframework==3.15.2
+gunicorn==23.0.0
+psycopg2-binary==2.9.9
+requests==2.32.3
+redis==5.0.1
+matplotlib==3.5.1
+numpy==1.23.5
